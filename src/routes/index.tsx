@@ -15,7 +15,7 @@ export default function Home() {
 
    <ul>
       <li><i>Data Imports:</i> &nbsp;  The Daily24 App enables you to import data into the cloud-based backend for the study, data defined in connection with your daily activity. You may also give permission to import certain data from third party wearable activity devices (like Fitbit or Jawbone), as well as other data that you may have provided separately or that may be available through other third party applications and data available through Health app, such as weight, height, steps walked or sleep pattern. We are not responsible for the data practices of third parties from which you may elect to import data and you are advised to consult their privacy policies separately. You may choose not to import these data types and to still participate in the Study.</li>
-      <li><i>Standard Log Information:</i> &nbsp;  We automatically collect standard server log information, such as internet protocol address and details of how you used the Metabolic Compass App (e.g. history of page requests such as uploading data or signing in and date/time of request).    </li>
+      <li><i>Standard Log Information:</i> &nbsp;  We automatically collect standard server log information, such as internet protocol address and details of how you used the Daily24 App (e.g. history of page requests such as uploading data or signing in and date/time of request).    </li>
       <li><i>Fabric (Crashlytics and Answers): </i>To improve the user experience we track which user interface components you access through the Metabolic Compass App.  We also track crash stack traces as part of our debugging and quality assurance process.</li>
     </ul>
 
