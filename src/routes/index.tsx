@@ -20,15 +20,15 @@ export default function Home() {
     </ul>
 
 <h3>How We Use Information</h3>
-   <p>We use your contact information, including email address, to contact you for administrative purposes regarding your participation in the Study and your use of the Metabolic Compass App. </p>
+   <p>We use your contact information, including email address, to contact you for administrative purposes regarding your participation in the Study and your use of the Daily24 App. </p>
 
-   <p>We use the information that we collect through the Daily24 App and the Study to operate, maintain, enhance and provide all features of the Metabolic Compass App and the Study, to provide services and information that you request, to respond to comments and questions and otherwise to provide support to users. </p>
+   <p>We use the information that we collect through the Daily24 App and the Study to operate, maintain, enhance and provide all features of the Daily24 App and the Study, to provide services and information that you request, to respond to comments and questions and otherwise to provide support to users. </p>
 
    <p>Your data will be used for improving general health, medical and fitness management and for the purposes of medical research. Your data will NOT be used for advertising or other use-based data mining purposes. We will not access your personal contacts, other applications, personal photos nor text and email messages on your iPhone. </p>
 
-   <p>With regard to our processing of personal data for the Study, our Metabolic Compass App and the necessary ancillary services aggregate user-provided and user-generated information, including personal data. We separate your account information (e.g., name or email address) from your Study data (including health information such as height, body weight, blood pressures, heart rates) and combine your coded Study data (without your name) with those of other Study participants for research and analysis as described below under “How We Disclose Information.” </p>
+   <p>With regard to our processing of personal data for the Study, our Daily24 App and the necessary ancillary services aggregate user-provided and user-generated information, including personal data. We separate your account information (e.g., name or email address) from your Study data (including health information such as height, body weight, blood pressures, heart rates) and combine your coded Study data (without your name) with those of other Study participants for research and analysis as described below under “How We Disclose Information.” </p>
 
-   <p>We use standard log files and other automatically-collected usage data that is essential for the Study and the Metabolic Compass App to function effectively, including to: (i) personalize the Metabolic Compass App and the Study, such as by remembering information so that it does not need to be re-entered; (ii) monitor and analyze the Metabolic Compass App and the Study; (iii) monitor aggregate Metabolic Compass App usage metrics; and (iv) track your activities on the Metabolic Compass App and in the Study. We do not use cookies, beacons or device fingerprinting.</p>
+   <p>We use standard log files and other automatically-collected usage data that is essential for the Study and the Daily24 App to function effectively, including to: (i) personalize the Metabolic Compass App and the Study, such as by remembering information so that it does not need to be re-entered; (ii) monitor and analyze the Metabolic Compass App and the Study; (iii) monitor aggregate Metabolic Compass App usage metrics; and (iv) track your activities on the Metabolic Compass App and in the Study. We do not use cookies, beacons or device fingerprinting.</p>
 
 <h3>How We Disclose Information</h3>
   <p> Except as described in this privacy policy, we will not sell, rent, lease, give away, disclose or share your contact information, and will not disclose your information that we collect through the Metabolic Compass App and the Study to third parties without your consent. We may provide contact or coded study information to third parties if you consent to us doing so, as well as in the following circumstances:</p>
@@ -44,7 +44,7 @@ export default function Home() {
   <p>You have the option to share data from your mobile device‘s iOS Health app with the App. Unless you agree to share your data through and with the App, you will not be able to include it in the study. Once you agree to share your data through and with the App, such data becomes covered by this Privacy Policy. We are not responsible for the data practices of the iOS Health app outside the Metabolic Compass App in any way.</p> 
 
 <h3>Do Not Track</h3>
-  <p>We do not track our Metabolic Compass App visitors over time and across third party websites or online services to provide targeted advertising, and we do not specifically respond to Do Not Track (“DNT”) signals.</p>
+  <p>We do not track our Daily24 App visitors over time and across third party websites or online services to provide targeted advertising, and we do not specifically respond to Do Not Track (“DNT”) signals.</p>
 
 <h3>Data Security</h3>
   <p>Daily24 uses appropriate physical, managerial, and technical safeguards that are designed to protect the confidentiality, integrity and security of personal data that we collect and maintain against accidental or unlawful loss, theft and misuse and unauthorized access, disclosure, alteration destruction, or any other type of unlawful processing. We cannot, however, fully guarantee the security of personal data or other information transmitted to us through the Metabolic Compass App or the Study.</p>
@@ -63,12 +63,12 @@ export default function Home() {
 
   <p>You can withdraw any consent you have provided to us for the processing of your personal data at any time and free of charge. Please note that if you withdraw from the Study, we will stop collecting new data from you, but the coded study data that you have already provided will already have been distributed and will not be able to be destroyed or deleted.</p>
 
-  <p>If you have questions about your rights and choices in relation to your personal data, or would like to request additional information, please contact wwww.metaboliccompass.com.</p>
+  <p>If you have questions about your rights and choices in relation to your personal data, or would like to request additional information, please contact tom@daiware.io</p>
 
 
 <h3>Changes to Our Privacy Policy</h3>
  
-  <p>We may change this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. In the event that any changes to this privacy policy materially alter your rights or obligations under this privacy policy, we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access the Metabolic Compass App or the Study for the first time after such material changes are made. Your continued use of the Metabolic Compass App or the Study after the revised privacy policy has become effective indicates that you have read, understood and agreed to the then-current version of this privacy policy.</p>
+  <p>We may change this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. In the event that any changes to this privacy policy materially alter your rights or obligations under this privacy policy, we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access Daily24 App or the Study for the first time after such material changes are made. Your continued use of the Daily24 App or the Study after the revised privacy policy has become effective indicates that you have read, understood and agreed to the then-current version of this privacy policy.</p>
 
 <h3>Contact Us</h3>
  <p>If you have any questions, comments or requests regarding this privacy policy or our processing of your information, please contact us at tom@daiware.io or Johns Hopkins University, School of Medicine, 725 N. Wolfe St., Baltimore MD, 21215</p>
