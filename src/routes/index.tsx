@@ -7,8 +7,7 @@ export default function Home() {
       <Title>Privacy Policy</Title>
       <h1>Daily24</h1>
       <Counter />
-      <p>
-     We respect your privacy. This privacy policy describes our collection of personal data when you use Daily24 (the "App"), our use and disclosure of such personal data, and the steps we take to protect such personal data. “Personal data” means any information relating to an identified or identifiable natural person directly or indirectly.</p>
+      <p> We respect your privacy. This privacy policy describes our collection of personal data when you use Daily24 (the "App"), our use and disclosure of such personal data, and the steps we take to protect such personal data. “Personal data” means any information relating to an identified or identifiable natural person directly or indirectly.</p>
    <p> Your use of the Daily24 App and your participation in the study are each voluntary. By using the Daily24 App or participating in the Study, you consent to the privacy practices described in this privacy policy. The entity responsible for the collection and processing of your personal data in the context of the Study is Johns Hopkins University ("JHU"), School of Medicine, 725 Wolfe St., Baltimore, MD 21215 USA.</p>
 <h3>Registering for the Study through Daily24</h3>
    <p>In order to access the Daily24 App functionalities, we ask you to create an account through daily-24.app To create an account, you must provide a username, your first name, your last name, a password and your email address. We will inform you of the purposes for which we are collecting, processing, using, and sharing your personal data and we will obtain your consent through an informed consent document and process. You must affirmatively consent to participate in the Study prior to creating your account. To provide your informed consent, you will be asked to provide your first and last name, as well as your signature.</p>
@@ -75,7 +74,7 @@ export default function Home() {
 <h3>Contact Us</h3>
  <p>If you have any questions, comments or requests regarding this privacy policy or our processing of your information, please contact us at tom@daiware.io or Johns Hopkins University, School of Medicine, 725 N. Wolfe St., Baltimore MD, 21215</p>
         
-      </p>
+    
     </main>
   );
 }
